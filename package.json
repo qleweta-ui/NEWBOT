@@ -1,0 +1,8 @@
+{
+  "name": "okx-telegram-pump-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
